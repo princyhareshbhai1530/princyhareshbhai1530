@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**princyhareshbhai1530/princyhareshbhai1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Title -->
-<h1 align="center">I'm Princy Patel</h1>
+<h1 align="center">I'm Princy Hareshbhai Patel</h1>
 
-I'm a passionate Full‑Stack Developer with a strong foundation in web development, AI‑driven applications, and software engineering. I’m currently pursuing an BTech in **Computer Programming & Analysis** at **Indus University**, where I’m sharpening my skills in **AI**, **system design**, and **full‑stack** development.
+I’m a passionate **Data Scientist & AI Engineer** with a strong foundation in **Machine Learning, Deep Learning, and Data Analytics**.  
+Currently pursuing my **B.Tech. in Computer Science and Engineering** at **Indus University**, I maintain a **9.9 CGPA** and specialize in building intelligent systems that transform data into impactful insights.
 
-- 🔧 **Specialty:** HTML, CSS, C, C++, TypeScript, Next.js, Python, MongoDB  
-- 🌱 **Learning:** AI/ML, Cloud Computing, DevOps  
-- 🌍 I love building impactful projects that solve real‑world problems.  
-- 🚀 Continuous learning, open‑source, and growing as a software engineer keep me energized.
+- 🧠 **Specialties:** Data Science, AI/ML, Deep Learning, Python, TensorFlow, SQL, Power BI  
+- 🌱 **Learning:** Generative AI, Cloud AI Services (AWS, GCP, Azure), and MLOps  
+- 🚀 I enjoy solving real-world problems through data-driven innovation and automation.  
+- 💬 Always open to collaborating on AI, analytics, and open-source research projects.
 
 ---
 
@@ -18,42 +15,60 @@ I'm a passionate Full‑Stack Developer with a strong foundation in web developm
 
 ### Core
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Data Science & AI
 
-### Commonly Use
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### Tools & Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Exploring / Learning
-![AI/ML](https://img.shields.io/badge/AI%2FML-3b82f6?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-1f2937?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-111827?style=for-the-badge)
 
-<!-- If you prefer icons over badges:
-[![My Skills](https://skillicons.dev/icons?i=ts,next,python,mongodb,nodejs,express,react,postgres,git&perline=6)](https://skillicons.dev)
--->
+![MLOps](https://img.shields.io/badge/MLOps-4A90E2?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-9333EA?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-1f2937?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-2563EB?style=for-the-badge)
 
 ---
 
-## 🔗 Socials
-- GitHub: [princyhareshbhai1530](https://github.com/princyhareshbhai1530)
-- Email: [princyhareshbhai1530@gmail.com](mailto:princyhareshbhai1530@gmail.com)
-- LinkedIn: [sahil-patel3184](https://www.linkedin.com/in/sahil-patel3184/) 
+## 📊 GitHub Stats  
 
-### Stats 
-<!-- GitHub Readme Stats: replace USERNAME -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princyhareshbhai1530&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princyhareshbhai1530&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princyhareshbhai1530&layout=compact&theme=radical)
 
+---
 
+## 🏆 Achievements  
+
+- 🥇 **9.9 CGPA** (Top of Department – Indus University)  
+- 💡 **Led and mentored** teams in multiple hackathons and AI research events  
+- 📈 Completed 6-month **Data Science Internship** at Nexuslink Services India Pvt. Ltd.  
+- 🤝 Recognized for leadership, innovation, and collaboration in academic and AI communities  
+
+---
+
+## 🔗 Socials  
+
+- 💼 **LinkedIn:** [linkedin.com/in/princypatel](https://linkedin.com/in/princypatel)  
+- 💻 **GitHub:** [princyhareshbhai1530](https://github.com/princyhareshbhai1530)  
+- 📫 **Email:** [princyhareshbhai1530@gmail.com](mailto:princyhareshbhai1530@gmail.com)
+
+---
+
+> *“Empowering ideas with data and transforming insights into intelligence.”* ✨
