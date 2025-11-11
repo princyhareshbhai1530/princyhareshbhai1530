@@ -58,7 +58,7 @@ Currently pursuing my **B.Tech. in Computer Science and Engineering** at **Indus
 
 - 🥇 **9.9 CGPA** (Top of Department – Indus University)  
 - 💡 **Led and mentored** teams in multiple hackathons and AI research events  
-- 📈 Completed 6-month **Data Science Internship** at Nexuslink Services India Pvt. Ltd.  
+- 📈 Currently on a  6-month **Data Science Internship** at Nexuslink Services India Pvt. Ltd.  
 - 🤝 Recognized for leadership, innovation, and collaboration in academic and AI communities  
 
 ---
