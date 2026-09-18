@@ -15,6 +15,8 @@ Building intelligent systems at the intersection of
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/princypatel)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princyhareshbhai1530)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princy.h.patel123@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=sahilpatel318&label=PROFILE+VIEWS&style=flat-square" />
+
 
 </div>
 
